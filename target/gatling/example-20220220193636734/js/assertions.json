@@ -1,0 +1,10 @@
+{
+  "simulation": "FloodHome.Example",
+  "simulationId": "example",
+  "start": 1645385796734,
+  "description": "",
+  "scenarios": ["Example"],
+  "assertions": [
+
+  ]
+}
